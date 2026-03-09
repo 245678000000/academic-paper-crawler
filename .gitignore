@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.xlsx
+*.csv
+.pythonlibs/
+.cache/
+.upm/
+uv.lock
+node_modules/
